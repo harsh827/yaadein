@@ -1,5 +1,6 @@
 # Travel freak
 
+<<<<<<< HEAD
 <a href="https://ibb.co/NF2N9HP"><img src="MEDIA\nav bar.PNG" alt="Capture" border="0" /></a>
 <br>
 
@@ -8,6 +9,9 @@
 ## Sample UI
 
 ### Signup
+=======
+# Memories 
+>>>>>>> 314cee85ff8702b9c1e2261658cee8083d073f38
 
 ![tsignup](MEDIA\signup.PNG)
 
@@ -27,9 +31,14 @@
 
 Sections headers will be used to reference location of destination.
 
+<<<<<<< HEAD
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [Author Info](#author-info)
+=======
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the project directory, you can run:
+>>>>>>> 314cee85ff8702b9c1e2261658cee8083d073f38
 
 ---
 
