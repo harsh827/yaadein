@@ -7,7 +7,7 @@
 
 ## Sample UI
 
-![tsample](MEDIA/signin_home.png)
+![tsample](MEDIA/signout_home.PNG)
 
 ### Signup
 
