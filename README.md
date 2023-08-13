@@ -1,5 +1,7 @@
 # Travel freak
 
+Travel freak is a web platform where people share their travelling experience and rate their travel places according to their experience. It is a full stack application where people can sign in with their email id’s or sign up for an account. After log in they can share their experience by making a post and they can view other post as well.
+
 <a href=""><img src="MEDIA\nav bar.PNG" alt="Capture" border="0" /></a>
 <br>
 
