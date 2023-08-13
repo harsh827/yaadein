@@ -79,7 +79,7 @@ For running on localhost you need to install VScode.
 :arrow_right: Run npm start in both terminal
 <br>
 <br>
-:fire::fire: Boom You are ready to explore :fire::fire:
+:fire::fire: You are ready to explore :fire::fire:
 
 [Back To The Top](#read-me-template)
 
